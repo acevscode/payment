@@ -1,0 +1,34 @@
+{
+  "name": "payment-request",
+  "description": "Payment request API implementation in Polymer",
+  "main": [
+    "payment-request.html",
+    "payment-item.html"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
+    "paper-button": "^1.0.14",
+    "paper-icon-button": "^1.1.4",
+    "paper-listbox": "^1.1.2",
+    "paper-item": "^1.2.1",
+    "paper-header-panel": "^1.1.7",
+    "paper-toolbar": "^1.1.7",
+    "iron-flex-layout": "^1.3.1"
+  },
+  "homepage": "https://github.com/jorgecasar/payment-request",
+  "_release": "3ceb510",
+  "_resolution": {
+    "type": "commit",
+    "commit": "3ceb510"
+  },
+  "_source": "https://github.com/jorgecasar/payment-request.git",
+  "_target": "3ceb510",
+  "_originalSource": "https://github.com/jorgecasar/payment-request.git",
+  "_direct": true
+}
